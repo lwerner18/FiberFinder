@@ -1,0 +1,5 @@
+/yarnenv3.11/bin/
+/yarnenv3.11/lib/
+/yarnenv3.11/yarn_segmentation_model.mlpackage
+/yarnenv3.11/yarn_segmentation_model.h5
+/yarnenv3.11/data/view/
